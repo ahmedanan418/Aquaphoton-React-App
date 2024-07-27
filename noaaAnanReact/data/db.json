@@ -1,0 +1,40 @@
+{
+  "Blogs": [
+    {
+      "title": "Gain",
+      "body": "According to the scientist 'Bell' ....",
+      "author": "Yahya",
+      "id": "1"
+    },
+    {
+      "title": "Signals and Systems",
+      "body": "The unit step function is ....",
+      "author": "Moselhy",
+      "id": "2"
+    },
+    {
+      "id": "e18c",
+      "title": "Khalaf ",
+      "body": "Khalaf ragl mtarsham bs zingy",
+      "author": "mario"
+    }
+  ],
+  "options": [
+    {
+      "name": "Home",
+      "link": "/Display",
+      "id": "1"
+    },
+    {
+      "name": "Upload",
+      "link": "/Upload",
+      "id": "2"
+    },
+    {
+      "name": "About Aquaphoton",
+      "link": "/",
+      "id": "3"
+    }
+  ],
+  "non": []
+}
